@@ -1,1 +1,1 @@
-# amplify-petstore
+# amplify-petstoreapp
